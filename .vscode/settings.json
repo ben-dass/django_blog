@@ -1,5 +1,4 @@
 {
-    "python.languageServer": "Pylance",
     "emmet.includeLanguages": {
         "django-html": "html"
     },
@@ -9,4 +8,5 @@
         "**/templates/**/*": "django-txt",
         "**/requirements{/**,*}.{txt,in}": "pip-requirements",
     },
+    "python.languageServer": "Pylance",
 }
